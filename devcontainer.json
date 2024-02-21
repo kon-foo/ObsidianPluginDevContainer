@@ -17,6 +17,6 @@
         }
     },
     "forwardPorts": [],
-    "postCreateCommand": "npm install",
+    "postCreateCommand": "bash -c './start-sync.sh &'",
     "workspaceFolder": "/workspace"
 }
