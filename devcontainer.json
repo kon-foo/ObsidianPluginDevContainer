@@ -1,6 +1,7 @@
 {
     "name": "Obsidian Plugin Development",
     "dockerFile": "Dockerfile",
+    "context": "..",
     "customizations": {
         "vscode": {
             "settings": {
