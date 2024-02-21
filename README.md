@@ -1,0 +1,1 @@
+## VSCode DevContainer Environment for Obsidian Plugin Development
