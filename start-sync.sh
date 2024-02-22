@@ -4,7 +4,7 @@
 PLUGIN_DIR="/workspace"
 
 # Path to the plugin directory in the test vault
-VAULT_PLUGIN_DIR="/workspace/ObsidianPluginTestVault/.obsidian/plugins/my-plugin"
+VAULT_PLUGIN_DIR="/workspace/testVault/.obsidian/plugins/my-plugin"
 
 # Function to sync files
 sync_files() {
