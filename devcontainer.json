@@ -16,5 +16,5 @@
         }
     },
     "forwardPorts": [],
-    "postCreateCommand": "npm run dev"
+    "postCreateCommand": "npm run setup && npm install"
 }
