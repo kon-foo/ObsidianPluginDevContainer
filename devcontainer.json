@@ -17,6 +17,6 @@
         }
     },
     "forwardPorts": [],
-    "postCreateCommand": "bash -c './start-sync.sh &'",
+    "postCreateCommand": "npm run dev",
     "workspaceFolder": "/workspace"
 }

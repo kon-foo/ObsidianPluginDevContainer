@@ -12,5 +12,4 @@ WORKDIR /workspace
 # Copy package.json and install dependencies
 # This step can be modified based on your specific project needs
 COPY package.json ./
-COPY .devcontainer/start-sync.sh ./
 RUN npm install
