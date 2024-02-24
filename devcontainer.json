@@ -12,7 +12,8 @@
             "extensions": [
                 "editorconfig.editorconfig",
                 "dbaeumer.vscode-eslint",
-                "esbenp.prettier-vscode"
+                "esbenp.prettier-vscode",
+                "christian-kohler.path-intellisense"
             ]            
         }
     },
