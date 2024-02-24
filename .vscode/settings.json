@@ -4,5 +4,6 @@
         "editor.formatOnPaste": true,
         "editor.formatOnSave": true,
       },
-
+    "typescript.suggest.paths": false,
+    "javascript.suggest.paths": false       
 }
